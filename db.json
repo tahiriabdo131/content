@@ -1,0 +1,89 @@
+{
+  "content": [
+    {
+      "id": 346995,
+      "title": "3 minutes sous la douche !",
+      "type": "ECOGESTE",
+      "updated_date": "07-04-2023 00:00:00",
+      "image": {
+        "src": "assets/fake-img/save-water-principal.png",
+        "alt": null
+      },
+      "picto1": {
+        "src": "assets/fake-img/gaspi-geste.png",
+        "alt": "gaspi-geste.png"
+      },
+      "description1": "<p style=\"text-align:left;\">Rester trop longtemps sous la douche.&nbsp;<br><strong>Une douche de 5 minutes par jour pendant un an co&ucirc;te environ :&nbsp;&nbsp;</strong><br>&bull;&nbsp;<strong>120 &euro; d&rsquo;eau&nbsp;</strong><br>&bull;&nbsp;<strong>100 &euro; d&rsquo;&eacute;lectricit&eacute;</strong> *</p>",
+      "picto2": {
+        "src": "assets/fake-img/eco-geste.png",
+        "alt": "eco-geste.png"
+      },
+      "description2": "<p style=\"text-align:left;\">Privil&eacute;giez des douches de 3 minutes pour diviser votre facture d&rsquo;eau et d&rsquo;&eacute;lectricit&eacute; quasiment par 2. &nbsp;<br><strong>Vous &eacute;conomisez en moyenne 135 &euro; par an !&nbsp;</strong><br>&bull;&nbsp;<strong>70 &euro; d&rsquo;eau&nbsp;</strong><br>&bull;&nbsp;<strong>65 &euro; d&rsquo;&eacute;lectricit&eacute; </strong>*</p>",
+      "add_info": "<p style=\"text-align:left;\"><em>* Calcul sur la base de 4 &euro; le m3 et </em>0,21 <em>&euro; le kWh.</em></p>",
+      "enabled": true
+    },
+    {
+      "id": 346956,
+      "title": "Un verre d'eau suffit !",
+      "type": "ECOPLANETE",
+      "updated_date": "04-04-2023 00:00:00",
+      "image": {
+        "src": "assets/fake-img/eau-pluie.png",
+        "alt": null
+      },
+      "picto1": {
+        "src": "assets/fake-img/pollu-planete.png",
+        "alt": null
+      },
+      "description1": "<p>Laisser couler l'eau du robinet pendant que l'on se lave les dents.</p><p><strong>1 brossage de dents = 1 bouteille d'eau gaspill&eacute;e !</strong></p>",
+      "picto2": {
+        "src": "assets/fake-img/eco-planete.png",
+        "alt": null
+      },
+      "description2": "<p>Un verre d'eau suffit pour vous rincer les dents !</p><p><strong>Vous &eacute;conomisez l'&eacute;quivalent de 750 bouteilles d'eau par an* !</strong></p>",
+      "add_info": "<p>* Calcul sur la base de 2 brossages de dents par jour</p><p>1 bouteille d'eau = 1,5 litre</p>",
+      "enabled": true
+    },
+    {
+      "id": 346960,
+      "title": "Elle tombe du ciel, autant la réutiliser !",
+      "type": "INFEAU",
+      "updated_date": "04-04-2023 00:00:00",
+      "image": {
+        "src": "assets/fake-img/eau-pluie.png",
+        "alt": null
+      },
+      "picto1": {
+        "src": "assets/fake-img/pollu-planete.png",
+        "alt": null
+      },
+      "description1": "<p><strong>Utiliser l&rsquo;eau du robinet pour arroser votre jardin.</strong><br>C&rsquo;est parfois interdit en p&eacute;riode de s&eacute;cheresse.</p>",
+      "picto2": {
+        "src": "assets/fake-img/eco-planete.png",
+        "alt": null
+      },
+      "description2": "<p><strong>R&eacute;cup&eacute;rez&nbsp;l'eau de pluie</strong>&nbsp;qui coule sur votre toit &agrave; l&rsquo;aide d&rsquo;un&nbsp;r&eacute;cup&eacute;rateur d&rsquo;eau.<br>L&rsquo;eau de pluie pour arroser son jardin c&rsquo;est plus &eacute;cologique et &eacute;conomique</p>",
+      "add_info": "<p>Un r&eacute;cup&eacute;rateur d&rsquo;eau de 300 litres vous co&ucirc;tera environ 100 &euro; dans vos magasins de bricolage.</p>",
+      "enabled": true
+    },
+    {
+      "id": 346963,
+      "title": "Seulement 1% d'eau douce sur Terre …",
+      "type": "INFEAU",
+      "updated_date": "04-04-2023 00:00:00",
+      "image": {
+        "src": "assets/fake-img/eau-douce.png",
+        "alt": null
+      },
+      "picto1": {
+        "src": "assets/fake-img/infeau2.png",
+        "alt": null
+      },
+      "description1": "<p>La Terre est recouverte &agrave; 72% d'eau.<br><strong>Mais seulement&nbsp;1% de cette eau est douce.</strong><br>Le reste est de l&rsquo;eau de mer, de la glace&hellip;</p><p><strong>A nous d'en faire bon usage !</strong></p>",
+      "picto2": "",
+      "description2": "",
+      "add_info": "",
+      "enabled": true
+    }
+  ]
+}
