@@ -1,84 +1,449 @@
 [
   {
-    "id": 346995,
-    "title": "3 minutes sous la douche !",
+    "id": 347131,
+    "title": "Un verre d'eau suffit !",
     "type": "ECOGESTE",
-    "updated_date": "07-04-2023 00:00:00",
+    "updated_date": "13-04-2023 00:00:00",
     "image": {
-      "src": "https://tahiriabdo131.github.io/content/fake-img/save-water-principal.png",
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/6/5/8/1/2731856-2-fre-FR/2e74e456c6e8-1-02-3-minutes-sous-la-douche.png",
       "alt": null
     },
     "picto1": {
-      "src": "https://tahiriabdo131.github.io/content/fake-img/gaspi-geste.png",
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/4/9/6/1/2731694-1-fre-FR/6b3c54520c54-gaspi-geste.png",
       "alt": "gaspi-geste.png"
     },
-    "description1": "<p style=\"text-align:left;\">Rester trop longtemps sous la douche.&nbsp;<br><strong>Une douche de 5 minutes par jour pendant un an co&ucirc;te environ :&nbsp;&nbsp;</strong><br>&bull;&nbsp;<strong>120 &euro; d&rsquo;eau&nbsp;</strong><br>&bull;&nbsp;<strong>100 &euro; d&rsquo;&eacute;lectricit&eacute;</strong> *</p>",
+    "description1": "<p>Laisser couler l'eau du robinet pendant qu'on se lave les dents.&nbsp;<br><strong>1 brossage de dents = 1 bouteille d'eau gaspill&eacute;e !</strong></p>",
     "picto2": {
-      "src": "https://tahiriabdo131.github.io/content/fake-img/eco-geste.png",
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/7/9/6/1/2731697-1-fre-FR/b245f9d07cc8-eco-geste.png",
       "alt": "eco-geste.png"
     },
-    "description2": "<p style=\"text-align:left;\">Privil&eacute;giez des douches de 3 minutes pour diviser votre facture d&rsquo;eau et d&rsquo;&eacute;lectricit&eacute; quasiment par 2. &nbsp;<br><strong>Vous &eacute;conomisez en moyenne 135 &euro; par an !&nbsp;</strong><br>&bull;&nbsp;<strong>70 &euro; d&rsquo;eau&nbsp;</strong><br>&bull;&nbsp;<strong>65 &euro; d&rsquo;&eacute;lectricit&eacute; </strong>*</p>",
+    "description2": "<p>Un verre d'eau suffit pour vous rincer les dents !&nbsp;<br><strong>Vous &eacute;conomisez l'&eacute;quivalent de 750 bouteilles d'eau par an !</strong></p>",
+    "add_info": "<p>Calcul sur la base de 2 brossages de dents par jour&nbsp;&nbsp;<br>* 1 bouteille d'eau = 1,5 litre</p>",
+    "enabled": true
+  },
+  {
+    "id": 347133,
+    "title": "3 minutes sous la douche !",
+    "type": "ECOGESTE",
+    "updated_date": "13-04-2023 00:00:00",
+    "image": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/6/5/8/1/2731856-2-fre-FR/2e74e456c6e8-1-02-3-minutes-sous-la-douche.png",
+      "alt": null
+    },
+    "picto1": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/4/9/6/1/2731694-1-fre-FR/6b3c54520c54-gaspi-geste.png",
+      "alt": "gaspi-geste.png"
+    },
+    "description1": "<p style=\"text-align:left;\">Rester trop longtemps sous la douche.&nbsp;&nbsp;<br><strong>Une douche de 5 minutes par jour pendant un an co&ucirc;te environ :&nbsp; &nbsp;</strong><br>&bull;&nbsp;<strong>120 &euro; d&rsquo;eau&nbsp;</strong><br>&bull;&nbsp;<strong>100 &euro; d&rsquo;&eacute;lectricit&eacute;</strong> *</p>",
+    "picto2": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/7/9/6/1/2731697-1-fre-FR/b245f9d07cc8-eco-geste.png",
+      "alt": "eco-geste.png"
+    },
+    "description2": "<p style=\"text-align:left;\">Privil&eacute;giez des douches de 3 minutes pour diviser votre facture d&rsquo;eau et d&rsquo;&eacute;lectricit&eacute; quasiment par 2. &nbsp;<br><strong>Vous &eacute;conomisez en moyenne 135 &euro; par an !&nbsp;</strong><br>&bull;&nbsp;<strong>70 </strong><strong>&euro; d&rsquo;eau&nbsp;</strong><br>&bull;&nbsp;<strong>65 &euro; d&rsquo;&eacute;lectricit&eacute; </strong>*<br>&nbsp;</p>",
     "add_info": "<p style=\"text-align:left;\"><em>* Calcul sur la base de 4 &euro; le m3 et </em>0,21 <em>&euro; le kWh.</em></p>",
     "enabled": true
   },
   {
-    "id": 346956,
-    "title": "Un verre d'eau suffit !",
-    "type": "ECOPLANETE",
-    "updated_date": "04-04-2023 00:00:00",
+    "id": 347048,
+    "title": "Une douche plutôt qu’un bain !",
+    "type": "ECOGESTE",
+    "updated_date": "13-04-2023 00:00:00",
     "image": {
-      "src": "https://tahiriabdo131.github.io/content/fake-img/eau-pluie.png",
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/6/5/8/1/2731856-2-fre-FR/2e74e456c6e8-1-02-3-minutes-sous-la-douche.png",
       "alt": null
     },
     "picto1": {
-      "src": "https://tahiriabdo131.github.io/content/fake-img/pollu-planete.png",
-      "alt": null
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/4/9/6/1/2731694-1-fre-FR/6b3c54520c54-gaspi-geste.png",
+      "alt": "gaspi-geste.png"
     },
-    "description1": "<p>Laisser couler l'eau du robinet pendant que l'on se lave les dents.</p><p><strong>1 brossage de dents = 1 bouteille d'eau gaspill&eacute;e !</strong></p>",
+    "description1": "<p style=\"text-align:left;\">Prendre un bain r&eacute;guli&egrave;rement.&nbsp;<br><strong>Un bain par jour pendant un an co&ucirc;te environ :&nbsp;&nbsp;</strong><br>&bull;&nbsp;<strong>210 &euro; d&rsquo;eau&nbsp;</strong><br>&bull;&nbsp;<strong>200 &euro; d&rsquo;&eacute;lectricit&eacute; </strong>*</p>",
     "picto2": {
-      "src": "https://tahiriabdo131.github.io/content/fake-img/eco-planete.png",
-      "alt": null
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/7/9/6/1/2731697-1-fre-FR/b245f9d07cc8-eco-geste.png",
+      "alt": "eco-geste.png"
     },
-    "description2": "<p>Un verre d'eau suffit pour vous rincer les dents !</p><p><strong>Vous &eacute;conomisez l'&eacute;quivalent de 750 bouteilles d'eau par an* !</strong></p>",
-    "add_info": "<p>* Calcul sur la base de 2 brossages de dents par jour</p><p>1 bouteille d'eau = 1,5 litre</p>",
+    "description2": "<p style=\"text-align:left;\">Prenez des douches de 3 minutes plut&ocirc;t que des bains divise en moyenne votre facture d&rsquo;eau et d&rsquo;&eacute;lectricit&eacute; par 3 : &nbsp;&nbsp;<br><strong>Vous &eacute;conomisez en moyenne 275 &euro; par an !&nbsp;</strong><br>&bull;&nbsp;<strong>140 &euro; d&rsquo;eau&nbsp;</strong><br>&bull;&nbsp;<strong>135 &euro; d&rsquo;&eacute;lectricit&eacute; </strong>*</p>",
+    "add_info": "<p style=\"text-align:left;\"><em>* Calcul sur la base de 4 &euro; le m3 et </em>0,21 <em>&euro; le kWh.</em></p>",
     "enabled": true
   },
   {
-    "id": 346960,
+    "id": 347134,
+    "title": "Je passe au pommeau de douche éco",
+    "type": "ECOGESTE",
+    "updated_date": "13-04-2023 00:00:00",
+    "image": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/6/5/8/1/2731856-2-fre-FR/2e74e456c6e8-1-02-3-minutes-sous-la-douche.png",
+      "alt": null
+    },
+    "picto1": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/4/9/6/1/2731694-1-fre-FR/6b3c54520c54-gaspi-geste.png",
+      "alt": "gaspi-geste.png"
+    },
+    "description1": "<p style=\"text-align:left;\">Prendre des douches avec un pommeau de douche standard.&nbsp;<br><strong>Une douche de 5 minutes avec pommeau de douche standard pendant un an co&ucirc;te environ :&nbsp;&nbsp;</strong><br>&bull;&nbsp;<strong>120 &euro; d&rsquo;eau</strong><br>&bull;&nbsp;<strong>100 &euro; d&rsquo;&eacute;lectricit&eacute; </strong>*</p>",
+    "picto2": "",
+    "description2": "<p style=\"text-align:left;\">Equipez-vous d'un pommeau de douche &eacute;co, il&nbsp;comprime votre eau et injecte de l&rsquo;air, vous ne sentirez pas de r&eacute;duction de d&eacute;bit.&nbsp;<br><strong>Une douche de 5 minutes avec pommeau de douche &eacute;co pendant un an co&ucirc;te environ : </strong>&nbsp;&nbsp;<br>&bull;&nbsp;<strong>60 &euro; d&rsquo;eau&nbsp;</strong><br>&bull;&nbsp;<strong>100 &euro; d&rsquo;&eacute;lectricit&eacute; </strong>&nbsp;<br><strong>Vous &eacute;conomisez en moyenne 60 &euro; par an !</strong></p>",
+    "add_info": "<p style=\"text-align:center;\">Disponible &agrave; partir de 30 &euro; dans vos magasins de bricolage.<br><em>* </em>1 bouteille d&rsquo;eau = 1,5 litre</p>",
+    "enabled": true
+  },
+  {
+    "id": 347135,
+    "title": "Je remplace mon flexible de douche",
+    "type": "ECOGESTE",
+    "updated_date": "13-04-2023 00:00:00",
+    "image": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/6/5/8/1/2731856-2-fre-FR/2e74e456c6e8-1-02-3-minutes-sous-la-douche.png",
+      "alt": null
+    },
+    "picto1": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/4/9/6/1/2731694-1-fre-FR/6b3c54520c54-gaspi-geste.png",
+      "alt": "gaspi-geste.png"
+    },
+    "description1": "<p style=\"text-align:left;\">Utiliser un flexible de douche standard.&nbsp;<br>Plus fragile, les risques de fuites sont plus &eacute;lev&eacute;s.</p>",
+    "picto2": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/7/9/6/1/2731697-1-fre-FR/b245f9d07cc8-eco-geste.png",
+      "alt": "eco-geste.png"
+    },
+    "description2": "<p>&Eacute;quipez-vous d&rsquo;un <strong>flexible de douche anti-torsion.&nbsp;</strong><br>Plus r&eacute;sistant, il dure plus longtemps et limite les <strong>risques de fuites </strong>qui peuvent repr&eacute;senter <strong>jusqu&rsquo;&agrave; 20% de votre consommation</strong>.</p><p>&nbsp;</p>",
+    "add_info": "<p style=\"text-align:left;\">Disponible &agrave; partir de 30 &euro; dans vos magasins de bricolage.</p>",
+    "enabled": true
+  },
+  {
+    "id": 347136,
+    "title": "Je stoppe la douche quand je me savonne",
+    "type": "ECOGESTE",
+    "updated_date": "13-04-2023 00:00:00",
+    "image": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/6/5/8/1/2731856-2-fre-FR/2e74e456c6e8-1-02-3-minutes-sous-la-douche.png",
+      "alt": null
+    },
+    "picto1": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/4/9/6/1/2731694-1-fre-FR/6b3c54520c54-gaspi-geste.png",
+      "alt": "gaspi-geste.png"
+    },
+    "description1": "<p style=\"text-align:left;\">Laisser couler l&rsquo;eau pendant que je me savonne :&nbsp;<br><strong>Une douche sans interruption = 80 litres d&rsquo;eau</strong><strong>.</strong></p>",
+    "picto2": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/7/9/6/1/2731697-1-fre-FR/b245f9d07cc8-eco-geste.png",
+      "alt": "eco-geste.png"
+    },
+    "description2": "<p style=\"text-align:left;\">&Eacute;quipez-vous d&rsquo;un stop douche pour stopper la sortie d&rsquo;eau et maintenir sa temp&eacute;rature et son d&eacute;bit. <br><strong>Une douche avec interruption = 72 litres d&rsquo;eau.<br>Economisez jusqu&rsquo;&agrave; 3 000 litres d&rsquo;eau par an !</strong></p>",
+    "add_info": "<p style=\"text-align:left;\">Disponible &agrave; partir de 10 &euro; dans vos magasins de bricolage.</p>",
+    "enabled": true
+  },
+  {
+    "id": 347137,
+    "title": "Un mousseur pour utiliser moins d’eau",
+    "type": "ECOGESTE",
+    "updated_date": "13-04-2023 00:00:00",
+    "image": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/6/5/8/1/2731856-2-fre-FR/2e74e456c6e8-1-02-3-minutes-sous-la-douche.png",
+      "alt": null
+    },
+    "picto1": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/4/9/6/1/2731694-1-fre-FR/6b3c54520c54-gaspi-geste.png",
+      "alt": "gaspi-geste.png"
+    },
+    "description1": "<p style=\"text-align:left;\">Utiliser mes robinets sans &eacute;quipement de r&eacute;duction du d&eacute;bit de l&rsquo;eau.&nbsp;&nbsp;<br>Un robinet ouvert sans &eacute;quipement consomme : <br><strong>12 litres d&rsquo;eau par minute,<br>soit l&rsquo;&eacute;quivalent de 8 bouteilles ! </strong>*</p>",
+    "picto2": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/7/9/6/1/2731697-1-fre-FR/b245f9d07cc8-eco-geste.png",
+      "alt": "eco-geste.png"
+    },
+    "description2": "<p style=\"text-align:left;\">&Eacute;quipez vos robinets de <strong>mousseurs </strong>pour <strong>diviser votre consommation d&rsquo;eau par 2 sans perdre en confort.&nbsp;</strong><br>Les mousseurs injectent de l&rsquo;air dans votre eau, elle est plus douce, plus agr&eacute;able et c&rsquo;est plus &eacute;conomique !</p>",
+    "add_info": "<p style=\"text-align:center;\">Disponible &agrave; partir de 4 &euro; dans vos magasins de bricolage.<br>* 1 bouteille d&rsquo;eau = 1,5 litre</p>",
+    "enabled": true
+  },
+  {
+    "id": 347138,
+    "title": "Lave-vaisselle ou lavage à la main ?",
+    "type": "ECOGESTE",
+    "updated_date": "13-04-2023 00:00:00",
+    "image": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/6/5/8/1/2731856-2-fre-FR/2e74e456c6e8-1-02-3-minutes-sous-la-douche.png",
+      "alt": null
+    },
+    "picto1": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/4/9/6/1/2731694-1-fre-FR/6b3c54520c54-gaspi-geste.png",
+      "alt": "gaspi-geste.png"
+    },
+    "description1": "<p style=\"text-align:left;\">Laver votre vaisselle &agrave; la main.&nbsp;<br><strong>Un lavage &agrave; la main par jour pendant un an co&ucirc;te environ :&nbsp;&nbsp;</strong><br>&bull;&nbsp;<strong>60 &euro; d&rsquo;eau&nbsp;</strong><br>&bull;&nbsp;<strong>190 &euro; d&rsquo;&eacute;lectricit&eacute;</strong> *</p>",
+    "picto2": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/7/9/6/1/2731697-1-fre-FR/b245f9d07cc8-eco-geste.png",
+      "alt": "eco-geste.png"
+    },
+    "description2": "<p style=\"text-align:left;\">Privil&eacute;giez des lavages au lave-vaisselle (pleine capacit&eacute;) pour diviser votre facture d&rsquo;eau et d&rsquo;&eacute;lectricit&eacute; par 2. E&nbsp;<br><strong>Vous &eacute;conomisez en moyenne 125 &euro; par an !&nbsp;</strong><br>&bull;&nbsp;<strong>30 &euro; d&rsquo;eau&nbsp;</strong><br>&bull;&nbsp;<strong>95 &euro; d&rsquo;&eacute;lectricit&eacute; </strong>*<br>&nbsp;</p>",
+    "add_info": "<p style=\"text-align:center;\"><em>* Calcul sur la base de 4 &euro; le m3 et </em>0,21 <em>&euro; le kWh </em></p><p style=\"text-align:center;\"><em>d&rsquo;un lavage par jour</em></p>",
+    "enabled": true
+  },
+  {
+    "id": 347139,
+    "title": "8 bouteilles d’eau à chaque fois que je tire la chasse !",
+    "type": "ECOGESTE",
+    "updated_date": "13-04-2023 00:00:00",
+    "image": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/6/5/8/1/2731856-2-fre-FR/2e74e456c6e8-1-02-3-minutes-sous-la-douche.png",
+      "alt": null
+    },
+    "picto1": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/4/9/6/1/2731694-1-fre-FR/6b3c54520c54-gaspi-geste.png",
+      "alt": "gaspi-geste.png"
+    },
+    "description1": "<p style=\"text-align:left;\">Tirer la chasse d&rsquo;eau avec un bouton simple commande.&nbsp;&nbsp;<br><strong>1 chasse d&rsquo;eau standard tir&eacute;e = 12 litres d&rsquo;eau, soit 8 bouteilles !&nbsp;</strong><br>C&rsquo;est 20 % de votre consommation d&rsquo;eau.</p><p style=\"text-align:left;\">&nbsp;</p>",
+    "picto2": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/7/9/6/1/2731697-1-fre-FR/b245f9d07cc8-eco-geste.png",
+      "alt": "eco-geste.png"
+    },
+    "description2": "<p style=\"text-align:left;\">&Eacute;quipez vos WC d&rsquo;une chasse d&rsquo;eau avec un bouton double-commande.&nbsp; <br>Vous divisez la consommation d&rsquo;eau de vos WC quasiment par 2.&nbsp;&nbsp;<br><strong>1 chasse d&rsquo;eau &eacute;conom&rsquo; tir&eacute;e = 6 litres d&rsquo;eau &eacute;conomis&eacute;s, soit 4 bouteilles !&nbsp;</strong><br>Pour une famille de 4 personnes, <strong>vous &eacute;conomisez environ</strong> <strong>90 &euro; par an. </strong>*&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;</p><p style=\"text-align:left;\">&nbsp;</p>",
+    "add_info": "<p style=\"text-align:center;\"><em>* Calcul sur la base de 4 &euro; le m3</em><br>1 bouteille d&rsquo;eau = 1,5 litre</p>",
+    "enabled": true
+  },
+  {
+    "id": 347140,
+    "title": "Une douche à température maîtrisée !",
+    "type": "ECOGESTE",
+    "updated_date": "13-04-2023 00:00:00",
+    "image": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/6/5/8/1/2731856-2-fre-FR/2e74e456c6e8-1-02-3-minutes-sous-la-douche.png",
+      "alt": null
+    },
+    "picto1": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/4/9/6/1/2731694-1-fre-FR/6b3c54520c54-gaspi-geste.png",
+      "alt": "gaspi-geste.png"
+    },
+    "description1": "<p style=\"text-align:left;\">Chercher la bonne temp&eacute;rature &agrave; chaque d&eacute;but de douche.&nbsp;<br><strong>Vous utilisez de l&rsquo;eau et de l&rsquo;&eacute;lectricit&eacute; inutilement.</strong></p>",
+    "picto2": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/7/9/6/1/2731697-1-fre-FR/b245f9d07cc8-eco-geste.png",
+      "alt": "eco-geste.png"
+    },
+    "description2": "<p style=\"text-align:left;\">&Eacute;quipez votre douche d&rsquo;un mitigeur thermostatique.&nbsp;<br><strong>Vous &eacute;conomisez environ 15 % de votre&nbsp; consommation d&rsquo;eau et d&rsquo;&eacute;lectricit&eacute;.&nbsp; </strong></p><p>&nbsp;</p>",
+    "add_info": "<p style=\"text-align:left;\">Disponible &agrave; partir de 100 &euro; dans vos magasins de bricolage.</p>",
+    "enabled": true
+  },
+  {
+    "id": 347141,
+    "title": "Je récupère l’eau froide de la douche",
+    "type": "ECOGESTE",
+    "updated_date": "13-04-2023 00:00:00",
+    "image": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/6/5/8/1/2731856-2-fre-FR/2e74e456c6e8-1-02-3-minutes-sous-la-douche.png",
+      "alt": null
+    },
+    "picto1": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/4/9/6/1/2731694-1-fre-FR/6b3c54520c54-gaspi-geste.png",
+      "alt": "gaspi-geste.png"
+    },
+    "description1": "<p style=\"text-align:left;\">Au d&eacute;but de votre douche laisser couler l&rsquo;eau en attendant que l&rsquo;eau chaude arrive.&nbsp; &nbsp;<br><strong>Laisser couler l&rsquo;eau de la douche pendant&nbsp;<br>1 minute, c&rsquo;est 16 litres d&rsquo;eau g&acirc;ch&eacute;s, soit l&rsquo;&eacute;quivalent de 11 bouteilles. </strong>&nbsp;<br>&nbsp;</p>",
+    "picto2": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/7/9/6/1/2731697-1-fre-FR/b245f9d07cc8-eco-geste.png",
+      "alt": "eco-geste.png"
+    },
+    "description2": "<p style=\"text-align:left;\">Au d&eacute;but de votre douche, r&eacute;cup&eacute;rez l&rsquo;eau froide dans un seau.&nbsp;<br><strong>A vous tout seul, vous &eacute;conomisez 16 litres d&rsquo;eau par douche, soit presque 6000 litres d&rsquo;eau&nbsp;par an !&nbsp;</strong><br>R&eacute;cup&eacute;rez cette eau pour arroser vos plantes, remplir le r&eacute;servoir de votre chasse d&rsquo;eau &hellip;&nbsp;<br>Pour une famille de 4 personnes, <strong>vous &eacute;conomisez environ</strong> <strong>100 &euro; par an. </strong>*</p><p style=\"text-align:left;\">&nbsp;</p>",
+    "add_info": "<p style=\"text-align:center;\"><em>* Calcul sur la base de 4 &euro; le m3</em><br>1 bouteille d&rsquo;eau = 1,5 litre</p>",
+    "enabled": true
+  },
+  {
+    "id": 347142,
+    "title": "Je récupère l’eau du sèche-linge",
+    "type": "ECOGESTE",
+    "updated_date": "13-04-2023 00:00:00",
+    "image": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/6/5/8/1/2731856-2-fre-FR/2e74e456c6e8-1-02-3-minutes-sous-la-douche.png",
+      "alt": null
+    },
+    "picto1": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/4/9/6/1/2731694-1-fre-FR/6b3c54520c54-gaspi-geste.png",
+      "alt": "gaspi-geste.png"
+    },
+    "description1": "<p style=\"text-align:left;\">Ne pas r&eacute;cup&eacute;rer l&rsquo;eau de son s&egrave;che-linge en la vidant dans l&rsquo;&eacute;vier ou dans les toilettes, si vous avez un s&egrave;che-linge &agrave; r&eacute;servoir.</p>",
+    "picto2": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/7/9/6/1/2731697-1-fre-FR/b245f9d07cc8-eco-geste.png",
+      "alt": "eco-geste.png"
+    },
+    "description2": "<p style=\"text-align:left;\"><strong>R&eacute;cup&eacute;rez </strong><strong>l'eau du r&eacute;servoir de </strong><strong>votre </strong><strong>s&egrave;che-linge.</strong> &nbsp;<br>Elle est d&eacute;min&eacute;ralis&eacute;e, vous pouvez la r&eacute;utiliser pour remplir votre fer &agrave; repasser ou encore arroser vos plantes.</p>",
+    "add_info": "",
+    "enabled": true
+  },
+  {
+    "id": 347143,
+    "title": "Je préfère l’eau du robinet",
+    "type": "ECOGESTE",
+    "updated_date": "13-04-2023 00:00:00",
+    "image": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/6/5/8/1/2731856-2-fre-FR/2e74e456c6e8-1-02-3-minutes-sous-la-douche.png",
+      "alt": null
+    },
+    "picto1": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/4/9/6/1/2731694-1-fre-FR/6b3c54520c54-gaspi-geste.png",
+      "alt": "gaspi-geste.png"
+    },
+    "description1": "<p style=\"text-align:left;\">Boire de l&rsquo;eau en bouteille : c&rsquo;est cher et son plastique pollue.&nbsp;<br><strong>Boire une bouteille d&rsquo;eau de 1,5 litre par jour, c&rsquo;est d&eacute;penser environ 165 &euro; par an. </strong>*</p>",
+    "picto2": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/7/9/6/1/2731697-1-fre-FR/b245f9d07cc8-eco-geste.png",
+      "alt": "eco-geste.png"
+    },
+    "description2": "<p style=\"text-align:left;\">Buvez l&rsquo;eau du robinet ! Elle est contr&ocirc;l&eacute;e, livr&eacute;e &agrave; domicile 24h/24 et 7j/7 et vous co&ucirc;te en moyenne 150 fois moins cher que l&rsquo;eau en bouteille.&nbsp;&nbsp;<br><strong>Boire 1,5 litre d&rsquo;eau du robinet par jour vous co&ucirc;te </strong><strong>seulement</strong><strong> 2 &euro; par an ! </strong><br>Pour une famille de 4 personnes buvant de l&rsquo;eau en bouteille, <strong>c&rsquo;est environ 660 &euro; &eacute;conomis&eacute;s par an</strong><strong>.</strong></p>",
+    "add_info": "<p style=\"text-align:center;\"><em>* Calcul sur la base de 4 &euro; le m3</em></p>",
+    "enabled": true
+  },
+  {
+    "id": 347144,
+    "title": "Je me lave les mains à l’eau froide",
+    "type": "ECOGESTE",
+    "updated_date": "13-04-2023 00:00:00",
+    "image": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/6/5/8/1/2731856-2-fre-FR/2e74e456c6e8-1-02-3-minutes-sous-la-douche.png",
+      "alt": null
+    },
+    "picto1": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/4/9/6/1/2731694-1-fre-FR/6b3c54520c54-gaspi-geste.png",
+      "alt": "gaspi-geste.png"
+    },
+    "description1": "<p style=\"text-align:left;\">Se laver les mains &agrave; l&rsquo;eau chaude.&nbsp;<br><strong>Un lavage &agrave; l&rsquo;eau chaude = 6 litres d&rsquo;eau et environ 30 W d&rsquo;&eacute;lectricit&eacute; consomm&eacute;s. </strong>*</p>",
+    "picto2": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/7/9/6/1/2731697-1-fre-FR/b245f9d07cc8-eco-geste.png",
+      "alt": "eco-geste.png"
+    },
+    "description2": "<p style=\"text-align:left;\">Se laver les mains &agrave; l&rsquo;eau froide.&nbsp; &nbsp;<br><strong>Un lavage &agrave; l&rsquo;eau froide = 3 litres d&rsquo;eau et environ 15 W d&rsquo;&eacute;lectricit&eacute; consomm&eacute;s.&nbsp;</strong><br>Vous &eacute;conomisez environ 1000 litres d&rsquo;eau et 5500 W d&rsquo;&eacute;lectricit&eacute; par lavage sur un an !<br>&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;</p>",
+    "add_info": "<p style=\"text-align:left;\"><em>* Calcul sur la base d&rsquo;un lavage par jour (eau + &eacute;lectricit&eacute;).</em></p>",
+    "enabled": true
+  },
+  {
+    "id": 347145,
+    "title": "Attention à la pression !",
+    "type": "ECOGESTE",
+    "updated_date": "13-04-2023 00:00:00",
+    "image": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/6/5/8/1/2731856-2-fre-FR/2e74e456c6e8-1-02-3-minutes-sous-la-douche.png",
+      "alt": null
+    },
+    "picto1": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/4/9/6/1/2731694-1-fre-FR/6b3c54520c54-gaspi-geste.png",
+      "alt": "gaspi-geste.png"
+    },
+    "description1": "<p style=\"text-align:left;\">Un niveau de pression d&rsquo;eau trop &eacute;lev&eacute; de vos installations augmente fortement votre consommation d&rsquo;eau. &nbsp;<br><strong>Une pression sup&eacute;rieure &agrave; 3 bars est d&eacute;conseill&eacute;e car elle vous fait surconsommer.</strong></p>",
+    "picto2": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/7/9/6/1/2731697-1-fre-FR/b245f9d07cc8-eco-geste.png",
+      "alt": "eco-geste.png"
+    },
+    "description2": "<p style=\"text-align:left;\">Votre plombier pourra &eacute;valuer le niveau de pression sur vos installations et le r&eacute;ajuster&nbsp;<br><strong>En passant de 6 bars &agrave; 3 bars, vous divisez quasiment par 2 votre consommation d&rsquo;eau.&nbsp;&nbsp;</strong><br>Vous &eacute;conomisez 150 litres d&rsquo;eau par personne et par jour, soit l&rsquo;&eacute;quivalent de <strong>37 000 bouteilles par an ! </strong><br>&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;<strong>Vous &eacute;conomisez en moyenne 220 &euro; par an !</strong></p>",
+    "add_info": "<p style=\"text-align:left;\"><em>*</em> 1 bouteille d&rsquo;eau = 1,5 litre</p>",
+    "enabled": true
+  },
+  {
+    "id": 347146,
     "title": "Elle tombe du ciel, autant la réutiliser !",
-    "type": "INFEAU",
-    "updated_date": "04-04-2023 00:00:00",
+    "type": "ECOPLANETE",
+    "updated_date": "13-04-2023 00:00:00",
     "image": {
-      "src": "https://tahiriabdo131.github.io/content/fake-img/eau-pluie.png",
-      "alt": null
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/0/1/7/1/2731710-2-fre-FR/7d9c2098189c-2-01-elle-tombe-du-ciel-autant-la-re-utiliser.png",
+      "alt": "2-01 - Elle tombe du ciel et elle est gratuite.jpeg"
     },
     "picto1": {
-      "src": "https://tahiriabdo131.github.io/content/fake-img/pollu-planete.png",
-      "alt": null
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/3/1/7/1/2731713-1-fre-FR/1e58380a9c24-pollu-planete.png",
+      "alt": "pollu-planete.png"
     },
-    "description1": "<p><strong>Utiliser l&rsquo;eau du robinet pour arroser votre jardin.</strong><br>C&rsquo;est parfois interdit en p&eacute;riode de s&eacute;cheresse.</p>",
+    "description1": "<p style=\"text-align:left;\"><strong>Utiliser l&rsquo;eau du robinet pour arroser votre jardin.&nbsp;</strong><br>C&rsquo;est inutile et c&rsquo;est souvent interdit en p&eacute;riode de s&eacute;cheresse.</p>",
     "picto2": {
-      "src": "https://tahiriabdo131.github.io/content/fake-img/eco-planete.png",
-      "alt": null
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/6/1/7/1/2731716-1-fre-FR/782152dde702-eco-planete.png",
+      "alt": "eco-planete.png"
     },
-    "description2": "<p><strong>R&eacute;cup&eacute;rez&nbsp;l'eau de pluie</strong>&nbsp;qui coule sur votre toit &agrave; l&rsquo;aide d&rsquo;un&nbsp;r&eacute;cup&eacute;rateur d&rsquo;eau.<br>L&rsquo;eau de pluie pour arroser son jardin c&rsquo;est plus &eacute;cologique et &eacute;conomique</p>",
-    "add_info": "<p>Un r&eacute;cup&eacute;rateur d&rsquo;eau de 300 litres vous co&ucirc;tera environ 100 &euro; dans vos magasins de bricolage.</p>",
+    "description2": "<p style=\"text-align:left;\"><strong>R&eacute;cup&eacute;rez </strong><strong>l'eau de pluie </strong>qui coule sur votre toit &agrave; l&rsquo;aide d&rsquo;un r&eacute;cup&eacute;rateur d&rsquo;eau.&nbsp;<br>Vous ferez des &eacute;conomies et vous aurez une r&eacute;serve d&rsquo;eau en p&eacute;riode de s&eacute;cheresse.</p>",
+    "add_info": "<p style=\"text-align:center;\">Un r&eacute;cup&eacute;rateur d&rsquo;eau de 300 litres vous co&ucirc;tera environ 100 &euro; dans vos magasins de bricolage</p>",
     "enabled": true
   },
   {
-    "id": 346963,
+    "id": 347147,
+    "title": "Je ne lave pas ma voiture chez moi",
+    "type": "ECOPLANETE",
+    "updated_date": "13-04-2023 00:00:00",
+    "image": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/0/1/7/1/2731710-2-fre-FR/7d9c2098189c-2-01-elle-tombe-du-ciel-autant-la-re-utiliser.png",
+      "alt": "2-01 - Elle tombe du ciel et elle est gratuite.jpeg"
+    },
+    "picto1": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/3/1/7/1/2731713-1-fre-FR/1e58380a9c24-pollu-planete.png",
+      "alt": "pollu-planete.png"
+    },
+    "description1": "<p style=\"text-align:left;\">Laver votre voiture avec un tuyau d'arrosage &agrave; la maison.&nbsp;<br>&Ccedil;a pollue les nappes phr&eacute;atiques et c'est interdit par la loi.&nbsp;<br><strong>Lavage &agrave; domicile = 300 litres d&rsquo;eau, soit l&rsquo;&eacute;quivalent de 200 bouteilles ! </strong>*</p>",
+    "picto2": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/6/1/7/1/2731716-1-fre-FR/782152dde702-eco-planete.png",
+      "alt": "eco-planete.png"
+    },
+    "description2": "<p style=\"text-align:left;\">Lavez votre voiture dans une station de lavage consomme 6 fois moins d&rsquo;eau.&nbsp; &nbsp;&nbsp;<br><strong>Un lavage haute pression vous permet d&rsquo;&eacute;conomiser 250 litres d&rsquo;eau, soit plus de 160 bouteilles !&nbsp;</strong><br>De plus, les eaux us&eacute;es sont trait&eacute;es et recycl&eacute;es.<br>&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;</p>",
+    "add_info": "<p style=\"text-align:center;\"><em>*Sur la base de </em>1 bouteille d&rsquo;eau = 1,5 litre</p>",
+    "enabled": true
+  },
+  {
+    "id": 347148,
+    "title": "Le tabac, un danger pas que pour la santé !",
+    "type": "ECOPLANETE",
+    "updated_date": "13-04-2023 00:00:00",
+    "image": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/0/1/7/1/2731710-2-fre-FR/7d9c2098189c-2-01-elle-tombe-du-ciel-autant-la-re-utiliser.png",
+      "alt": "2-01 - Elle tombe du ciel et elle est gratuite.jpeg"
+    },
+    "picto1": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/3/1/7/1/2731713-1-fre-FR/1e58380a9c24-pollu-planete.png",
+      "alt": "pollu-planete.png"
+    },
+    "description1": "<p>Jeter vos m&eacute;gots de cigarette dans la rue.&nbsp;&nbsp;<br>Les m&eacute;gots de cigarettes repr&eacute;sentent presque la moiti&eacute; des d&eacute;chets polluant les rues.&nbsp;&nbsp;<br><strong>1 m&eacute;got de cigarette :&nbsp;&nbsp;</strong><br>&bull;&nbsp;<strong>C&rsquo;est 500 litres d&rsquo;eau pollu&eacute;s soit l&rsquo;&eacute;quivalent de 330 bouteilles ! </strong><br>&bull;&nbsp;<strong>C&rsquo;est 10 ans de pollution, </strong>le temps que met le filtre &agrave; se d&eacute;grader.</p><p>&nbsp;</p><p>&nbsp;</p>",
+    "picto2": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/6/1/7/1/2731716-1-fre-FR/782152dde702-eco-planete.png",
+      "alt": "eco-planete.png"
+    },
+    "description2": "<p style=\"text-align:left;\">Jetez vos m&eacute;gots de cigarettes dans les poubelles et pour pr&eacute;server l&rsquo;environnement.&nbsp;<br><strong>Un paquet de m&eacute;got de cigarettes &agrave; la poubelle = 10 000 litres d&rsquo;eau pr&eacute;serv&eacute;s, </strong>soit plus de 6500 bouteilles ! *</p>",
+    "add_info": "<p style=\"text-align:center;\"><em>*Sur la base de </em>1 bouteille d&rsquo;eau = 1,5 litre</p>",
+    "enabled": true
+  },
+  {
+    "id": 347149,
     "title": "Seulement 1% d'eau douce sur Terre …",
     "type": "INFEAU",
-    "updated_date": "04-04-2023 00:00:00",
+    "updated_date": "13-04-2023 00:00:00",
     "image": {
-      "src": "https://tahiriabdo131.github.io/content/fake-img/eau-douce.png",
-      "alt": null
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/9/2/7/1/2731729-2-fre-FR/1938361386d3-3-01-seulement-1-d-eau-douce-sur-terre.png",
+      "alt": "3-01 - Seulement 1% d'eau douce sur Terre.jpeg"
     },
     "picto1": {
-      "src": "https://tahiriabdo131.github.io/content/fake-img/infeau2.png",
-      "alt": null
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/2/3/7/1/2731732-1-fre-FR/227e1bafe434-infeau.png",
+      "alt": "infeau.png"
     },
-    "description1": "<p>La Terre est recouverte &agrave; 72% d'eau.<br><strong>Mais seulement&nbsp;1% de cette eau est douce.</strong><br>Le reste est de l&rsquo;eau de mer, de la glace&hellip;</p><p><strong>A nous d'en faire bon usage !</strong></p>",
+    "description1": "<p style=\"text-align:left;\">La Terre est recouverte &agrave; 72% d'eau.<br>Mais seulement <strong>2,5% de cette eau est douce </strong><strong>:&nbsp;&nbsp;</strong><br>&bull;&nbsp;<strong>La moiti&eacute; </strong>de l&rsquo;eau douce est <strong>solide</strong>, sous forme de glace ou de neige.&nbsp;<br>&bull;&nbsp;<strong>L&rsquo;autre moiti&eacute; </strong>est <strong>liquide</strong> (rivi&egrave;res, cours d&rsquo;eau, lacs&hellip;).&nbsp;<br>Au final, <strong>seulement 1% de l&rsquo;eau </strong>qui couvre la Terre est <strong>douce et liquide.&nbsp;<br>Fa&icirc;tes en bon usage </strong><strong>!</strong></p><p style=\"text-align:left;\">&nbsp;</p>",
+    "picto2": "",
+    "description2": "",
+    "add_info": "",
+    "enabled": true
+  },
+  {
+    "id": 347150,
+    "title": "On manque d'eau … même en hiver",
+    "type": "INFEAU",
+    "updated_date": "13-04-2023 00:00:00",
+    "image": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/9/2/7/1/2731729-2-fre-FR/1938361386d3-3-01-seulement-1-d-eau-douce-sur-terre.png",
+      "alt": "3-01 - Seulement 1% d'eau douce sur Terre.jpeg"
+    },
+    "picto1": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/2/3/7/1/2731732-1-fre-FR/227e1bafe434-infeau.png",
+      "alt": "infeau.png"
+    },
+    "description1": "<p style=\"text-align:left;\"><strong>M&ecirc;me en hiver, certains d&eacute;partements souffrent d&rsquo;un manque d&rsquo;eau.&nbsp;</strong><br>Nord, Sud, toutes les r&eacute;gions peuvent &ecirc;tre concern&eacute;es.&nbsp;<br><strong>Alors n&rsquo;oubliez pas, l&rsquo;eau il faut la pr&eacute;server, m&ecirc;me en hiver!</strong></p>",
+    "picto2": "",
+    "description2": "",
+    "add_info": "",
+    "enabled": true
+  },
+  {
+    "id": 347151,
+    "title": "Est-ce que je peux boire l’eau de pluie ?",
+    "type": "INFEAU",
+    "updated_date": "13-04-2023 00:00:00",
+    "image": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/9/2/7/1/2731729-2-fre-FR/1938361386d3-3-01-seulement-1-d-eau-douce-sur-terre.png",
+      "alt": "3-01 - Seulement 1% d'eau douce sur Terre.jpeg"
+    },
+    "picto1": {
+      "src": "https://suez-int.toutsurmoneau.fr/var/ezwebin_site/storage/images/2/3/7/1/2731732-1-fre-FR/227e1bafe434-infeau.png",
+      "alt": "infeau.png"
+    },
+    "description1": "<p style=\"text-align:left;\"><strong>Bien qu&rsquo;elle soit naturelle, l&rsquo;eau de pluie n&rsquo;est pas potable</strong><strong>. </strong>&nbsp;&nbsp;<br>Elle peut pr&eacute;senter un risque de contamination, notamment d&ucirc; &agrave; ses ruissellements sur des surfaces contamin&eacute;es.<br>Ne l&rsquo;utilisez pas pour boire, cuisiner ou laver la vaisselle.&nbsp;&nbsp;<br><strong>En revanche, elle est parfaite pour arroser votre jardin, remplir le r&eacute;servoir de votre chasse d&rsquo;eau ou encore laver votre voiture.</strong></p><p style=\"text-align:left;\">&nbsp;</p><p style=\"text-align:left;\">&nbsp;</p>",
     "picto2": "",
     "description2": "",
     "add_info": "",
